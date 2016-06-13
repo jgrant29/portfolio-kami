@@ -1,40 +1,40 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio-kami" # the subpath of your site, e.g. /blog/
+baseurl: "/justin-michael-grant" # the subpath of your site, e.g. /blog/
 url: "http://www.domain.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Tyrion Lannister # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title: Justin Michael Grant # Your name will go here
+  description: "A personal portfolio" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
-  header_text_feature_image: 
+     <h1>Because one line can change the world.</h1>
+     <p>I'm a dedicated developer specializing in Rails, AngularJS, Postgres, and a little bit of Drupal.</p>
+  header_text_feature_image: #img/bricks.jpg
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Sincerely, JMG.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: jmgrant702@gmail.com
   behance:
   bitbucket:
   dribbble: 
-  facebook: 
+  facebook: jgrant85
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: jgrant29
   google_plus:
-  instagram: 
-  linkedin:  # Full URL
+  instagram: j.grant85/
+  linkedin:  https://www.linkedin.com/in/justin-grant-19979a5
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange:  http://stackoverflow.com/users/5153177/jgrant
   steam:
   tumblr:
-  twitter: 
+  twitter: horusdecoder
   wordpress:
   youtube:
 
